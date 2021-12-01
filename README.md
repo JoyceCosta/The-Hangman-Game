@@ -1,1 +1,1 @@
-# The-Hangman-Game
+# The Hangman Game
