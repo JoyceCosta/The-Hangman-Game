@@ -35,6 +35,13 @@ namespace HangmanGame
             }
         } 
 
-        
+        // Draw a new word. 
+        public string Pick() 
+        {
+            // Generates a number between 0 and the size of the words array.
+            int index = random.Next(words.Length);
+
+            return words[index];
+        }
     }
 }
