@@ -56,7 +56,43 @@ namespace HangmanGame
             // Converts the word into a char[].
             this.completeWordChars = this.CompleteWord.ToCharArray();
             
-            //
+            //Instantiates the partial word character array and assigns the wildcard to all positions.
+            this.partialWordChars = new char[completeWordChars.Length];
+            for (int i = 0; i < partialWordChars.Length; i++) 
+            {
+                if (completeWordChars[i] != ' ') 
+                {
+                    partialWordChars[i] = WildCard;
+                } 
+                else 
+                {
+                    partialWordChars[i] = ' ';
+                }
+            }
+        } 
+
+
+        // Try to guess a letter. 
+        public bool Guess(char letter) 
+        {
+            bool found = false;
+
+            // Converts the character to uppercase, as the words are all uppercase.
+            letter = Char.ToUpper(letter); 
+
+            // Search for the letter in the word. 
+            for (int i = 0; i < completeWordChars.Length; i++) 
+            {
+                if (completeWordChars[i] == letter) 
+                {
+                    // If the letter is found, the partial word character array has the 
+                    // corresponding wildcard replaced by the letter.
+                    partialWordChars[i] = letter;
+                    found = true;
+                }
+            } 
+
+            return found;
         }
     }
 }
