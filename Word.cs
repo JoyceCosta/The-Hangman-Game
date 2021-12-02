@@ -56,7 +56,7 @@ namespace HangmanGame
             // Converts the word into a char[].
             this.completeWordChars = this.CompleteWord.ToCharArray();
             
-            // 
+            //
         }
     }
 }
