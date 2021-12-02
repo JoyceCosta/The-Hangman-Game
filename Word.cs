@@ -6,7 +6,7 @@ namespace HangmanGame
     public class Word
     {
         // Character to be displayed in place of the unguessed letters.
-        private const char WildCard = "*"; 
+        private const char WildCard = '*'; 
 
         // Object that manages the words of the game. 
         private Words words = new Words(); 

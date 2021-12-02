@@ -12,7 +12,6 @@ Draco Malfoy
 Dursley
 Fleur Delacour
 Fred Wesley
-Gabrielle Malfoy
 Gilderoy Lockhart
 Godric Gryffindor
 Goyle
@@ -25,6 +24,7 @@ Lucio Malfoy
 Luna Lovegood
 Madame Norra
 Minerva McGonagall
+Narcisa Malfoy
 Neville Longbottom
 Ninfadora Tonks
 Pedro Pettigrew

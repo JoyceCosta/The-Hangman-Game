@@ -1,0 +1,16 @@
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/bin/Debug/net5.0/HangmanGame
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/bin/Debug/net5.0/HangmanGame.deps.json
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/bin/Debug/net5.0/HangmanGame.runtimeconfig.json
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/bin/Debug/net5.0/HangmanGame.runtimeconfig.dev.json
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/bin/Debug/net5.0/HangmanGame.dll
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/bin/Debug/net5.0/ref/HangmanGame.dll
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/bin/Debug/net5.0/HangmanGame.pdb
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/obj/Debug/net5.0/HangmanGame.csproj.AssemblyReference.cache
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/obj/Debug/net5.0/HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/obj/Debug/net5.0/HangmanGame.AssemblyInfoInputs.cache
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/obj/Debug/net5.0/HangmanGame.AssemblyInfo.cs
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/obj/Debug/net5.0/HangmanGame.csproj.CoreCompileInputs.cache
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/obj/Debug/net5.0/HangmanGame.dll
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/obj/Debug/net5.0/ref/HangmanGame.dll
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/obj/Debug/net5.0/HangmanGame.pdb
+/home/mannon/Documents/c#/c#SoftBlue/HangmanGame/obj/Debug/net5.0/HangmanGame.genruntimeconfig.cache
